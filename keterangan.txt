@@ -1,0 +1,36 @@
+KETERANGAN
+
+# suka musik 
+ 1 = tidak suka
+ 2 = suka
+ 3 = kadang - kadang
+
+# suka membaca
+ 1 = tidak suka
+ 2 = suka
+ 3 = kadang - kadang
+
+# suka olahraga
+ 1 = tidak suka
+ 2 = suka
+ 3 = kadang - kadang
+
+# senang diskusi
+ 1 = tidak suka
+ 2 = suka
+ 3 = kadang - kadang
+
+# suka menggambar
+ 1 = tidak suka
+ 2 = suka
+ 3 = kadang - kadang
+
+# suka menari
+ 1 = tidak suka
+ 2 = suka
+ 3 = kadang - kadang
+
+# gaya belajar
+ 1 = Auditori
+ 2 = Visual
+ 3 = Kinestetik
